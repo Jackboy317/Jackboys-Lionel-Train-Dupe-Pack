@@ -1,3 +1,6 @@
+These files go into your Garrysmod/garrysmod/data/advdupe2 folder!
+
+
 Current Contents:
 
 Lionel 1423w Freight Set from 1949. Includes:
