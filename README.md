@@ -12,3 +12,15 @@ Lionel 1423w Freight Set from 1949. Includes:
 Unmarked Tank Car,
 
 & 6257 SP Caboose.
+
+Lionel 2141ws Freight Set from 1949. Includes:
+
+671 6-8-6 Turbine Steam Engine
+
+25000 Lehigh Valley Hopper
+
+3462 Milk Car (Works, Just wire the input!)
+
+3451 Log Car
+
+& 2357 SP Caboose
